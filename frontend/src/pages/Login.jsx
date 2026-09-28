@@ -92,10 +92,7 @@ function Login() {
           required
         />
 
-        <p style={{ fontSize: "0.9rem", color: "#666" }}>
-          Demo candidate: <b>candidate@example.com</b> / <b>candidate123</b><br />
-          Demo HR: <b>hr@example.com</b> / <b>hr12345</b>
-        </p>
+        
 
         <button
           className="button"
