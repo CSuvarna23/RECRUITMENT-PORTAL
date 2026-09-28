@@ -37,19 +37,22 @@ A web-based Recruitment Portal that connects candidates and recruiters through a
 
 User login interface for accessing the Recruitment Portal.
 
-![Login Page](screenshots/login.png)
+
+<img width="1917" height="1025" alt="Screenshot 2026-09-28 091652" src="https://github.com/user-attachments/assets/bd9aebb0-be69-4d57-b874-669cc4ff3e22" />
+
 
 ### 2. Candidate Registration
 
 Candidate registration page for creating a new account.
 
-![Candidate Registration](screenshots/register.png)
+<img width="1917" height="938" alt="Screenshot 2026-09-28 091704" src="https://github.com/user-attachments/assets/ec8839bf-5584-4b25-860b-98aa9ce87cf9" />
+
 
 ### 3. Candidate Dashboard
 
 Candidate dashboard displaying applications, resume information, and available job postings.
 
-![Candidate Dashboard](screenshots/candidate-dashboard.png)
+<img width="1917" height="937" alt="Screenshot 2026-09-28 091809" src="https://github.com/user-attachments/assets/72121f87-cc54-4fb3-b716-95e9a16ea21b" />
 
 ### 4. Job Listings
 
