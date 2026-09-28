@@ -104,8 +104,6 @@ Once created, the job becomes available in the job management section.
 
 ### 3. Job Management
 
-<img width="1072" height="957" alt="Screenshot 2026-09-28 092059" src="https://github.com/user-attachments/assets/deb247de-15a5-403e-9f57-edce73407cb3" />
-
 The Manage Jobs section allows HR users to:
 
 - Search for jobs
@@ -117,7 +115,8 @@ The Manage Jobs section allows HR users to:
 
 ### 4. Applicant Management
 
-<img width="817" height="928" alt="Screenshot 2026-09-28 092148" src="https://github.com/user-attachments/assets/0294f676-0c41-4e7f-84b8-e2542d2f3552" />
+<img width="1072" height="957" alt="Screenshot 2026-09-28 092059" src="https://github.com/user-attachments/assets/deb247de-15a5-403e-9f57-edce73407cb3" />
+
 
 HR users can view all candidates who have applied for a particular job.
 
@@ -133,7 +132,8 @@ The applicant section displays:
 The system also provides a visual comparison of candidates based on their match scores.
 
 ### 5. Candidate Match Analysis
-<img width="1912" height="947" alt="Screenshot 2026-09-28 092256" src="https://github.com/user-attachments/assets/133a9bb1-8a80-43a8-8136-c484cf0f8f2b" />
+
+<img width="817" height="928" alt="Screenshot 2026-09-28 092148" src="https://github.com/user-attachments/assets/0294f676-0c41-4e7f-84b8-e2542d2f3552" />
 
 
 The system analyzes the candidate's resume against the required job skills and generates a match score.
@@ -149,7 +149,10 @@ For example, the applicant details page displays:
 This helps HR users quickly understand how closely a candidate's profile matches the job requirements.
 
 ### 6. Application Status Management
-<img width="1896" height="971" alt="Screenshot 2026-09-28 092307" src="https://github.com/user-attachments/assets/04a4ebc8-833c-4515-a840-ec38b0dc0fef" />
+
+<img width="1912" height="947" alt="Screenshot 2026-09-28 092256" src="https://github.com/user-attachments/assets/133a9bb1-8a80-43a8-8136-c484cf0f8f2b" />
+
+
 HR users can update the status of an application based on the recruitment process.
 
 Possible statuses include:
@@ -159,6 +162,8 @@ Possible statuses include:
 - Rejected
 
 ### 7. HR Profile Management
+
+<img width="1896" height="971" alt="Screenshot 2026-09-28 092307" src="https://github.com/user-attachments/assets/04a4ebc8-833c-4515-a840-ec38b0dc0fef" />
 
 The profile section allows HR users to view and manage their account information, including:
 
